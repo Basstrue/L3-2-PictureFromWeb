@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PictFromWeb</string>
+    <string name="pict_link">https://picsum.photos/600</string>
+    <string name="load_image">Load Image</string>
 </resources>
